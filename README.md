@@ -111,7 +111,8 @@ class MyWidget extends StatelessWidget {
 }
 ```
 
-    Resposta: Não possui erro no código fornecido. O seu funcionamento está correto, a utilização do widget também. Como melhoria, envolveria o GestureDetector em um widget pai, por exemplo um Center, que determinaria um tamanho limite para ele, evitando que o mesmo ocupe toda a tela.
+    
+Resposta: Não possui erro no código fornecido. O seu funcionamento está correto, a utilização do widget também. Como melhoria, envolveria o GestureDetector em um widget pai, por exemplo um Center, que determinaria um tamanho limite para ele, evitando que o mesmo ocupe toda a tela.
 
 
 Este teste foi projetado para avaliar o conhecimento técnico, a habilidade prática, e a capacidade de resolução de problemas de um desenvolvedor Flutter Pleno.
